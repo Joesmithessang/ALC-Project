@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00acc1</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">#f6f9f9</color>
+    <color name="divider">#eceff1</color>
+    <color name="view">#0097a7</color>
+    <color name="about_dialog_header">#569c7b</color>
+    <color name="profile_dialog_header">#644d4d4d</color>
+
+</resources>
